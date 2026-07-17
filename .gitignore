@@ -1,0 +1,4 @@
+*.o
+Sokoban
+*.out
+.DS_Store
